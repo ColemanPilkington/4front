@@ -11,9 +11,10 @@ V.1.0.0
 
 
 ** Bird's Eye View **
-TODUE is a tasklist that allows a user to easily view current working goals.
+4front is a tasklist that allows a user to easily view current working goals.
 Based on the "todo, working, complete" boards in computer programming
-offices/classrooms (or in your head, if you dont have a visual tracker)
+offices/classrooms (or in your head, if you don't have a visual tracker)
+Keeps tasks on the 4front of your mind.
 
 ** Mission Statement **
 I created 4front to be a free, open source task checklist system. Many programmers,
